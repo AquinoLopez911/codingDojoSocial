@@ -1,0 +1,19 @@
+{
+  "name": "codingdojosocial",
+  "version": "1.0.0",
+  "description": "social Media for dojo students. they can practice contributing to open source projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "codingDojo"
+  ],
+  "author": "Anthony Aquino-Lopez",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^15.7.0"
+  }
+}
